@@ -17,5 +17,6 @@ To run this project,
 
 ![AMZN-Dashboard](https://user-images.githubusercontent.com/71471355/116611215-56b2a680-a8f3-11eb-8ffd-982e7ff49c56.jpg)
 
-
-
+### Files in Folder
+1. `index.html` file is used to render the dashboard on a webpage.
+2. `plots.js` contains the JavaScript file that drives the visualization on index.html page.
