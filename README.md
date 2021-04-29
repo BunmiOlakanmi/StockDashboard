@@ -10,8 +10,6 @@ The purpose of this project is to build an interactive dashboard to explore Amaz
 3.  CSS
 4.  Visual Studio Code
 
-
-
 ### Steps
 To run this project,
 1. Open all the files with a visual studio code or any debugging environment.
